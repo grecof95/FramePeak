@@ -1,0 +1,30 @@
+﻿@page
+@model FramePeak.Pages.FeedbackModel
+@{
+    ViewData["Title"] = "Feedback";
+}
+
+<div class="text-center" style="max-width: 600px; margin: auto;">
+    <h1 class="subheader">We Want Your Feedback</h1>
+
+    <p>Please share your thoughts, issues, or suggestions. We typically respond within <strong>48–72 hours</strong>.</p>
+
+    <form method="post">
+        <div class="form-group" style="margin-bottom: 15px; text-align: left;">
+            <label for="email">Your Email:</label>
+            <input type="email" class="form-control" id="email" name="email" required />
+        </div>
+
+        <div class="form-group" style="margin-bottom: 15px; text-align: left;">
+            <label for="topic">Issue or Topic:</label>
+            <input type="text" class="form-control" id="topic" name="topic" required />
+        </div>
+
+        <div class="form-group" style="margin-bottom: 20px; text-align: left;">
+            <label for="feedback">Your Feedback:</label>
+            <textarea class="form-control" id="feedback" name="feedback" rows="5" required></textarea>
+        </div>
+
+        <button type="submit" class="nav-button">Submit Feedback</button>
+    </form>
+</div>

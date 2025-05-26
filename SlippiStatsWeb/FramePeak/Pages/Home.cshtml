@@ -1,0 +1,43 @@
+﻿@page
+@model FramePeak.Pages.Home.HomeModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="subheader">Welcome back, @Model.Username!</h1>
+
+    <h2 class="subheader">Track your performance. Level up your game.</h2>
+
+    <h3 class="subheader">Total Matches Played:</h3>
+        <p>@Model.MatchCount</p>
+
+    <h4 class="subheader">Your Most Played Character:</h4>
+        <p>Insert Query for most played character here</p>
+
+    <h5 class="subheader">Your Most Common Opposing Character:</h5>
+        <p>Insert Query for most common opposing character here</p>
+
+    <h6 class="subheader">Top 3 characters by win rate</h6>
+        <p>Insert Query for top 3 characters by win rate here</p>
+
+    <h6 class="subheader">Top 3 characters by usage</h6>
+        <p>Insert Query for Top 3 characters by usage here</p>
+
+    <h6 class="subheader">Top 3 maps by win rate</h6>
+        <p>Insert Query for top 3 maps here</p>
+
+    <h6 class="subheader">Overall L-Cancel Percent</h6>
+        <p>Insert Query for L Cancel Percent here</p>
+</div>
+
+<div class="text-center">
+    <h1 class="subheader">New to Slippi? Helpful Links</h1>
+    <a href="https://slippi.gg/">Slippi Website</a>
+    <a href="https://www.ssbwiki.com/Super_Smash_Bros._Melee">What is Super Smash Bros Melee?</a>
+</div>
+
+<div class="text-center">
+    <h1 class="subheader">Built for Melee players, by Melee players</h1>
+    <h2 class="subheader">Stop guessing, start improving</h2>
+</div>

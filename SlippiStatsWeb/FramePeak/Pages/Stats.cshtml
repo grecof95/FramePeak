@@ -1,0 +1,71 @@
+﻿@page
+@* @model SlippiStatsWeb.Pages.StatsModel *@
+@{
+    ViewData["Title"] = "My Stats";
+}
+
+<h2 class="subheader">My Performance Stats</h2>
+
+<p>Use the filters below to view your performance by character.</p>
+
+<form method="get" class="form-inline text-center" style="margin-bottom: 20px;">
+    <div class="form-group" style="margin: 10px;">
+        <label for="character" style="margin-right: 10px;">Character Played:</label>
+        <select id="character" name="character" class="form-control">
+            <option value="">-- Select Character --</option>
+            <option value="Fox">Fox</option>
+            <option value="Falco">Falco</option>
+            <option value="Marth">Marth</option>
+            <option value="Sheik">Sheik</option>
+            <!-- Add all characters as needed -->
+        </select>
+    </div>
+
+    <div class="form-group" style="margin: 10px;">
+        <button type="submit" class="nav-button">Filter Stats</button>
+    </div>
+</form>
+
+<!-- Results Table -->
+<table class="table table-dark table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Metric</th>
+            <th>Result</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Wins</td>
+            <td>[Insert Query Result]</td>
+        </tr>
+        <tr>
+            <td>Losses</td>
+            <td>[Insert Query Result]</td>
+        </tr>
+        <tr>
+            <td>Average Stocks Taken</td>
+            <td>[Insert Query Result]</td>
+        </tr>
+        <tr>
+            <td>Average Stocks Lost</td>
+            <td>[Insert Query Result]</td>
+        </tr>
+        <tr>
+            <td>Average Damage Dealt</td>
+            <td>[Insert Query Result]</td>
+        </tr>
+        <tr>
+            <td>Average Damage Taken</td>
+            <td>[Insert Query Result]</td>
+        </tr>
+        <tr>
+            <td>Overall L-Cancel %</td>
+            <td>[Insert Query Result]</td>
+        </tr>
+    </tbody>
+</table>
+
+<p class="text-center">
+    <a class="nav-button" asp-page="/FileUpload">Submit Another File</a>
+</p>

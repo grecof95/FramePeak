@@ -1,0 +1,21 @@
+IT299 - Assignment
+
+Assignment Questions -
+
+The template has us answering as if we are the company requesting the service in the first section
+
+Then the second section is as if we are the project manager for the company accepting the work
+
+Then the third is as if we are the review committee at the company that does the work. 
+
+Are we just supposed to pretend we are all of these? And for the sections about high-level estimates regarding prices are we supposed to make that up?
+
+- True to life as we can. It's okay to make up the prices. 
+
+
+
+Permission for third project - Check out cropper js
+
+If we pick project three since these are functions of a website that are to be added, does that technically mean we have to do step one and make the website as well? 
+
+- Can be web or desktop application

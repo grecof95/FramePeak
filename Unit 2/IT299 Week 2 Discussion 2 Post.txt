@@ -1,0 +1,31 @@
+IT299 Week 2 Discussion 2 Post
+
+For this  discussion post: 
+
+Hello class, 
+
+For any project, it is important to understand the difference between key terms, regardless of your role in the project. Goals, objectives, deliverables, requirements, and milestones are terms that often get used interchangeably but have distinct meanings and purposes.
+
+Goals are broad, long-term outcomes a project aims to achieve at completion. They represent the overall purpose. Merriam-Webster (n.d.-a) defines a goal as "the end toward which effort is directed." In a project, a goal might be to "improve customer experience" or "modernize outdated systems."
+
+Objectives break goals into smaller, specific, and measurable actions. They are the steps that move a project toward its goal. According to Merriam-Webster (n.d.-b), an objective is "something toward which effort is directed: an aim, goal, or end of action." For example, installing a self-checkout kiosk to reduce customer wait time would be an objective under the broader goal of improving customer experience.
+
+Deliverables are the outputs or results that must be produced for the project to be considered complete. These can include items such as software, reports, hardware, or training materials to name a few examples. Heldman (2018) defines deliverables as measurable items produced to complete a project or phase.
+
+Requirements specify the features or characteristics the deliverables must meet. These are often gathered through business analysis and reflect stakeholder needs. They guide what the deliverables should do and how they should function.
+
+Milestones are major checkpoints or events within the project timeline used to track progress. Reaching a milestone in an IT project could mean the database was finalized or that testing was successfully completed for a program.
+
+Understanding these distinctions is essential for project efficiency, planning and communication. Think of these different terms as ways to break down or build up a project to see things at a macro or a micro level. 
+
+Question for classmates: 
+
+Which of these five terms do you think is most often misunderstood in real-world projects, and how do you clarify it on your team?
+
+References:
+
+Merriam-Webster. (n.d.-a). Goal. In Merriam-Webster.com dictionary. Retrieved April 24, 2025, from https://www.merriam-webster.com/dictionary/goal
+
+Merriam-Webster. (n.d.-b). Objective. In Merriam-Webster.com dictionary. Retrieved April 24, 2025, from https://www.merriam-webster.com/dictionary/objective
+
+Heldman, K. (2018). Project Management JumpStart (4th ed.). Sybex. A Wiley Brand. https://learning.oreilly.com/library/view/project-management-jumpstart/9781119472223/;

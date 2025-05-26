@@ -1,0 +1,25 @@
+IT299 U6 Disc 1
+
+Unit 6 Discussion Topic 1 
+Discussion Overview
+
+You won't be doing anything related to project closing until Week 10 of the course, but the reading syncs up with the discussion question this week. Importantly, you will also discuss the difficulties associated with managing change once the project has entered the execution phase.
+
+Closing Process
+
+Why is it important to have a formal close out process for a project? Who benefits? What documentation would be required?
+
+Include a question at the end of your post that your classmates can use to respond to you.
+
+-------
+
+Hello class,
+
+Having a formal close-out process is in my opinion, one of the most important sections of the project life cycle. It ensures that all deliverables have been completed, stakeholders are satisfied, contracts are finalized, and everything in-between is documented for future projects. Skipping this phase can lead to lingering issues, unclear handoffs, and missed opportunities for improvement.
+
+The project team, stakeholders, and organization all benefit from proper closure. The team gets formal recognition that their work is done and access to the information learned throughout the project. The stakeholders get confirmation of what was delivered correctly and in time. finally, the organization gains insight into what worked and what didn’t. Key documentation includes the project closure report, lessons learned, final budget, schedules, and any transition plans for ongoing support or maintenance.
+
+Question for classmates:
+Have you ever seen a project that didn’t go through a proper close out phase? 
+
+- Frank
