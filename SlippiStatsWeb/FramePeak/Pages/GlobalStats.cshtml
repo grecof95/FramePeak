@@ -1,0 +1,69 @@
+﻿@page
+@model FramePeak.Pages.GlobalModel
+@{
+    ViewData["Title"] = "Global Stats";
+}
+
+<h2 class="subheader">Global Stats (All Users)</h2>
+
+<p>If you'd like to see your own performance, visit the <a asp-page="/Stats">My Stats Page</a>.</p>
+
+<table class="table table-dark table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Metric</th>
+            <th>Result</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Average L-Cancel %</td>
+            <td>@Model.GlobalLCancelPercent</td>
+        </tr>
+        <tr>
+            <td>Average Damage Dealt</td>
+            <td>@Model.GlobalAvgDamageDealt</td>
+        </tr>
+        <tr>
+            <td>Average Damage Taken</td>
+            <td>@Model.GlobalAvgDamageTaken</td>
+        </tr>
+        <tr>
+            <td>Total Matches Played</td>
+            <td>@Model.GlobalMatchCount</td>
+        </tr>
+        <tr>
+            <td>Top 3 Characters by Win Rate</td>
+            <td>
+                <ol>
+                    @foreach (var character in Model.GlobalTop3CharactersWinRate)
+                    {
+                        <div>@character</div>
+                    }
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <td>Bottom 3 Characters by Win Rate</td>
+            <td>
+                <ol>
+                    @foreach (var character in Model.GlobalBot3CharactersWinRate)
+                    {
+                        <div>@character</div>
+                    }
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <td>Top 3 Characters by Usage</td>
+            <td>
+                <ol>
+                    @foreach (var character in Model.GlobalTop3CharactersUsage)
+                    {
+                        <div>@character</div>
+                    }
+                </ol>
+            </td>
+        </tr>
+    </tbody>
+</table>
