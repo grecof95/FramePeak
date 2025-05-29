@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FbB0OWumG8lhKOt+58THZRIY8HXk0/yxWZEPW4ztxbc=",
+  "Hash": "27Qu+kUllUaHpGjjVd4DsZXzfeNhJJqSjluwcmSbaH4=",
   "Source": "FramePeak",
   "BasePath": "_content/FramePeak",
   "Mode": "Default",
@@ -112,12 +112,12 @@
       "OriginalItemSpec": "wwwroot\\FramePeak.db"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\Ssbmbowser.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\bowser.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/Ssbmbowser.jpg",
+      "RelativePath": "Images/bowser.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Ssbmbowser.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\bowser.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\Ssbmcaptainfalcon.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\captainfalcon.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/Ssbmcaptainfalcon.jpg",
+      "RelativePath": "Images/captainfalcon.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,15 +147,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Ssbmcaptainfalcon.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\captainfalcon.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\ssbmdoc.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\donkeykong.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/ssbmdoc.jpg",
+      "RelativePath": "Images/donkeykong.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\ssbmdoc.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\donkeykong.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\Ssbmdonkeykong.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\drmario.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/Ssbmdonkeykong.jpg",
+      "RelativePath": "Images/drmario.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,15 +185,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Ssbmdonkeykong.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\drmario.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\ssbmfalco.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\falco.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/ssbmfalco.jpg",
+      "RelativePath": "Images/falco.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -204,15 +204,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\ssbmfalco.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\falco.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\ssbmfox.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\fox.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/ssbmfox.jpg",
+      "RelativePath": "Images/fox.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -223,15 +223,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\ssbmfox.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\fox.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\ssbmganon.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\FramePeakLogoNew.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/ssbmganon.jpg",
+      "RelativePath": "Images/FramePeakLogoNew.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -242,15 +242,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\ssbmganon.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\FramePeakLogoNew.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\ssbmgaw.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\ganondorf.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/ssbmgaw.jpg",
+      "RelativePath": "Images/ganondorf.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -261,15 +261,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\ssbmgaw.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\ganondorf.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\Ssbmiceclimbers.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\iceclimbers.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/Ssbmiceclimbers.jpg",
+      "RelativePath": "Images/iceclimbers.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -280,15 +280,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Ssbmiceclimbers.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\iceclimbers.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\Ssbmjigglypuff.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\jigglypuff.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/Ssbmjigglypuff.jpg",
+      "RelativePath": "Images/jigglypuff.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -299,15 +299,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Ssbmjigglypuff.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\jigglypuff.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\Ssbmkirby.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\kirby.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/Ssbmkirby.jpg",
+      "RelativePath": "Images/kirby.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -318,15 +318,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Ssbmkirby.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\kirby.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\ssbmlink.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\link.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/ssbmlink.jpg",
+      "RelativePath": "Images/link.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\ssbmlink.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\link.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\Ssbmluigi.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\luigi.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/Ssbmluigi.jpg",
+      "RelativePath": "Images/luigi.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -356,15 +356,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Ssbmluigi.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\luigi.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\Ssbmmario.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\mario.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/Ssbmmario.jpg",
+      "RelativePath": "Images/mario.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -375,15 +375,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Ssbmmario.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\mario.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\ssbmmarth.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\marth.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/ssbmmarth.jpg",
+      "RelativePath": "Images/marth.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -394,15 +394,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\ssbmmarth.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\marth.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\ssbmmewtwo.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\mewtwo.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/ssbmmewtwo.jpg",
+      "RelativePath": "Images/mewtwo.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -413,15 +413,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\ssbmmewtwo.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\mewtwo.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\Ssbmness.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\mrgame&watch.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/Ssbmness.jpg",
+      "RelativePath": "Images/mrgame&watch.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -432,15 +432,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Ssbmness.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\mrgame&watch.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\Ssbmpeach.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\ness.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/Ssbmpeach.jpg",
+      "RelativePath": "Images/ness.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -451,15 +451,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Ssbmpeach.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\ness.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\ssbmpichu.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\peach.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/ssbmpichu.jpg",
+      "RelativePath": "Images/peach.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -470,15 +470,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\ssbmpichu.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\peach.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\ssbmpikachu.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\pichu.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/ssbmpikachu.jpg",
+      "RelativePath": "Images/pichu.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -489,15 +489,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\ssbmpikachu.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\pichu.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\ssbmroy.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\pikachu.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/ssbmroy.jpg",
+      "RelativePath": "Images/pikachu.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -508,15 +508,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\ssbmroy.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\pikachu.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\ssbmsamus.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\roy.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/ssbmsamus.jpg",
+      "RelativePath": "Images/roy.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -527,15 +527,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\ssbmsamus.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\roy.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\ssbmsheik.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\samus.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/ssbmsheik.jpg",
+      "RelativePath": "Images/samus.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -546,15 +546,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\ssbmsheik.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\samus.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\Ssbmyoshi.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\sheik.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/Ssbmyoshi.jpg",
+      "RelativePath": "Images/sheik.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -565,15 +565,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Ssbmyoshi.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\sheik.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\ssbmyounglink.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\yoshi.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/ssbmyounglink.jpg",
+      "RelativePath": "Images/yoshi.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -584,15 +584,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\ssbmyounglink.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\yoshi.jpg"
     },
     {
-      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\ssbmzelda.jpg",
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\younglink.jpg",
       "SourceId": "FramePeak",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
       "BasePath": "_content/FramePeak",
-      "RelativePath": "Images/ssbmzelda.jpg",
+      "RelativePath": "Images/younglink.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -603,7 +603,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\ssbmzelda.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\younglink.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\Images\\zelda.jpg",
+      "SourceId": "FramePeak",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\",
+      "BasePath": "_content/FramePeak",
+      "RelativePath": "Images/zelda.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\zelda.jpg"
     },
     {
       "Identity": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\js\\site.js",

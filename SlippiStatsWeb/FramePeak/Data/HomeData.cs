@@ -294,5 +294,25 @@ namespace FramePeak.Data
 
             return Convert.ToString(cmd.ExecuteScalar());
         }
+
+        public string GetTopWinRateCharacter(int userId)
+        {
+            using var conn = new SqliteConnection(connString);
+            conn.Open();
+
+            using var cmd = conn.CreateCommand();
+            cmd.CommandText = @"
+                                SELECT CharacterPlayed 
+                                FROM SlippiGameData 
+                                JOIN SlippiSubmissions ON SlippiSubmissions.SLPFileID = SlippiGameData.SLPFileID 
+                                WHERE SlippiSubmissions.UserID = @userId 
+                                GROUP BY CharacterPlayed 
+                                ORDER BY 
+                                CAST(SUM(CASE WHEN WinLoss = 'Win' THEN 1 ELSE 0 END) AS FLOAT) * 1.0 / COUNT(*) DESC 
+                                LIMIT 1;";
+            cmd.Parameters.AddWithValue("@userId", userId);
+
+            return Convert.ToString(cmd.ExecuteScalar());
+        }
     }
 }

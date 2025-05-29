@@ -4,17 +4,31 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - FramePeak</title>
+
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/SlippiStatsWeb.styles.css" asp-append-version="true" />
 </head>
+
+
+@{
+    var isLoggedIn = Context.Session.GetInt32("UserID") != null;
+}
 
 <body>
     <div class="page-wrapper">
 
         <header>
             @await Html.PartialAsync("_Header")
-            @await Html.PartialAsync("_Nav")
+
+            @if (isLoggedIn)
+            {
+                @await Html.PartialAsync("_Nav")
+            }
+            else
+            {
+                @await Html.PartialAsync("_LoginNav")
+            }
         </header>
 
         <main role="main" class="container pb-3">
@@ -28,6 +42,7 @@
         </footer>
 
     </div>
+
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

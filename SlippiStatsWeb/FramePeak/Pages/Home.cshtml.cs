@@ -20,6 +20,8 @@ namespace FramePeak.Pages.Home
         public List<string> Top3CharactersUsage { get; set; } = new();
         public List<string> Top3MapsWinRate { get; set; } = new();
         public string OverallLCancelPercent { get; set; }
+        public string TopWinRateCharacter { get; set; }
+
 
         public HomeModel(IConfiguration configuration)
         {
@@ -45,6 +47,8 @@ namespace FramePeak.Pages.Home
             Top3CharactersUsage = _repo.GetUserTop3CharacterUsage(UserId);
             Top3MapsWinRate = _repo.GetUserTop3Maps(UserId);
             OverallLCancelPercent = _repo.GetUserOverallLCancelPercent(UserId);
+            TopWinRateCharacter = _repo.GetTopWinRateCharacter(UserId);
+
         }
 
         static Settings BindSettings()

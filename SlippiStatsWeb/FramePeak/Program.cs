@@ -23,9 +23,12 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
+app.UseSession();
+
+
 app.UseRouting();
 
-app.UseSession();         // <-- Add this before authorization
+        // <-- Add this before authorization
 app.UseAuthorization();
 
 app.MapRazorPages();

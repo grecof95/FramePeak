@@ -7,8 +7,8 @@ namespace FramePeak.Pages
     {
         public IActionResult OnGet()
         {
-            // To add: Clear any session or temp data if needed
-            return RedirectToPage("/Index"); // Redirect to Login page
+            HttpContext.Session.Clear();
+            return RedirectToPage("/Index");
         }
     }
 }

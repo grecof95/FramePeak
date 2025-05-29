@@ -4,80 +4,84 @@
     ViewData["Title"] = "Home page";
 }
 
-<div class="text-center">
-    <h1 class="subheader">Welcome back, @Model.Username!</h1>
+<div class="home-content-wrapper">
+    <div class="home-layout">
+        <!-- Left: Most Played -->
+        <div class="character-box">
+            <h3 class="subheader">Most Played Character</h3>
+            <img src="@Url.Content($"~/images/{Model.MostPlayedCharacter.ToLower().Replace(" ", "").Replace(".", "")}.jpg")"
+                 alt="@Model.MostPlayedCharacter" class="character-image" />
+            <p>@Model.MostPlayedCharacter</p>
+        </div>
 
-    <h2 class="subheader">Track your performance. Level up your game.</h2>
+        <!-- Center: Main Stats -->
+        <div class="stats-content">
+            <h1 class="subheader">Welcome back, @Model.Username!</h1>
+            <h2 class="subheader">Track your performance. Level up your game.</h2>
+            <h3 class="subheader">Total Matches Played:</h3>
+            <p>@Model.MatchCount</p>
 
-    <h3 class="subheader">Total Matches Played:</h3>
-        <p>@Model.MatchCount</p>
+            <h4 class="subheader">Your Most Played Character:</h4>
+            <p>@Model.MostPlayedCharacter</p>
 
-    <h4 class="subheader">Your Most Played Character:</h4>
-        <p>@Model.MostPlayedCharacter</p>
+            <h5 class="subheader">Your Most Common Opposing Character:</h5>
+            <p>@Model.MostPlayedOpponent</p>
 
-    <h5 class="subheader">Your Most Common Opposing Character:</h5>
-        <p>@Model.MostPlayedOpponent</p>
-
-    <h6 class="subheader">Top 3 characters by win rate</h6>
-   
-    @if (Model.Top3CharactersWinRate != null && Model.Top3CharactersWinRate.Any())
-    {
-        <ul>
-            @foreach (var character in Model.Top3CharactersWinRate)
+            <h6 class="subheader">Top 3 characters by win rate</h6>
+            @if (Model.Top3CharactersWinRate != null && Model.Top3CharactersWinRate.Any())
             {
-                <div>@character</div>
+                <ul>
+                    @foreach (var character in Model.Top3CharactersWinRate)
+                    {
+                        <div>@character</div>
+                    }
+                </ul>
             }
-        </ul>
-    }
-    else
-    {
-        <p>No data available.</p>
-    }
 
-
-    <h6 class="subheader">Top 3 characters by usage</h6>
-
-    @if (Model.Top3CharactersUsage != null && Model.Top3CharactersUsage.Any())
-    {
-        <ul>
-            @foreach (var character in Model.Top3CharactersUsage)
+            <h6 class="subheader">Top 3 characters by usage</h6>
+            @if (Model.Top3CharactersUsage != null && Model.Top3CharactersUsage.Any())
             {
-                <div>@character</div>
+                <ul>
+                    @foreach (var character in Model.Top3CharactersUsage)
+                    {
+                        <div>@character</div>
+                    }
+                </ul>
             }
-        </ul>
-    }
-    else
-    {
-        <p>No data available.</p>
-    }
 
-
-    <h6 class="subheader">Top 3 maps by win rate</h6>
-    @if (Model.Top3MapsWinRate != null && Model.Top3MapsWinRate.Any())
-    {
-        <ul>
-            @foreach (var character in Model.Top3MapsWinRate)
+            <h6 class="subheader">Top 3 maps by win rate</h6>
+            @if (Model.Top3MapsWinRate != null && Model.Top3MapsWinRate.Any())
             {
-                <div>@character</div>
+                <ul>
+                    @foreach (var map in Model.Top3MapsWinRate)
+                    {
+                        <div>@map</div>
+                    }
+                </ul>
             }
-        </ul>
-    }
-    else
-    {
-        <p>No data available.</p>
-    }
 
-    <h6 class="subheader">Overall L-Cancel Percent</h6>
-        <p>@Model.OverallLCancelPercent</p>
-</div>
+            <h6 class="subheader">Overall L-Cancel Percent</h6>
+            <p>@Model.OverallLCancelPercent</p>
+        </div>
 
-<div class="text-center">
-    <h1 class="subheader">New to Slippi? Helpful Links</h1>
-    <a href="https://slippi.gg/">Slippi Website</a>
-    <a href="https://www.ssbwiki.com/Super_Smash_Bros._Melee">What is Super Smash Bros Melee?</a>
-</div>
+        <!-- Right: Top Win Rate -->
+        <div class="character-box">
+            <h3 class="subheader">Top Win Rate Character</h3>
+            <img src="@Url.Content($"~/images/{Model.TopWinRateCharacter.ToLower().Replace(" ", "").Replace(".", "")}.jpg")"
+                 alt="@Model.TopWinRateCharacter" class="character-image" />
+            <p>@Model.TopWinRateCharacter</p>
+        </div>
 
-<div class="text-center">
-    <h1 class="subheader">Built for Melee players, by Melee players</h1>
-    <h2 class="subheader">Stop guessing, start improving</h2>
+    </div>
+
+    <div class="text-center">
+        <h1 class="subheader">New to Slippi? Helpful Links</h1>
+        <a href="https://slippi.gg/">Slippi Website</a>
+        <a href="https://www.ssbwiki.com/Super_Smash_Bros._Melee">What is Super Smash Bros Melee?</a>
+    </div>
+
+    <div class="text-center">
+        <h1 class="subheader">Built for Melee players, by Melee players</h1>
+        <h2 class="subheader">Stop guessing, start improving</h2>
+    </div>
 </div>
