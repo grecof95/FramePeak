@@ -37,7 +37,7 @@ namespace FramePeak.Pages
             {
                 if (_repo.ValidateUser(Username, Password))
                 {
-                    int userId = _repo.GetUserId(Username, Password); // Get UserID
+                    int userId = _repo.GetUserId(Username, Password); 
                     HttpContext.Session.SetString("Username", Username);
                     HttpContext.Session.SetInt32("UserID", userId);
                     return RedirectToPage("/Home", new { userId });
@@ -79,7 +79,7 @@ namespace FramePeak.Pages
         {
             var environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
             var configuration = new ConfigurationBuilder()
-                .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true) //ask about which of these are optional
+                .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true) 
                 .AddJsonFile($"appsettings.{environment}.json", optional: false, reloadOnChange: true)
                 .Build();
             var settings = new Settings();

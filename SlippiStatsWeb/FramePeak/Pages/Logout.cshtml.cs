@@ -8,7 +8,7 @@ namespace FramePeak.Pages
         public IActionResult OnGet()
         {
             HttpContext.Session.Clear();
-            return RedirectToPage("/Index");
+            return Page();
         }
     }
 }

@@ -6,7 +6,7 @@
 
 <div class="home-content-wrapper">
     <div class="home-layout">
-        <!-- Left: Most Played -->
+        <!-- left side image is most played character image -->
         <div class="character-box">
             <h3 class="subheader">Most Played Character</h3>
             <img src="@Url.Content($"~/images/{Model.MostPlayedCharacter.ToLower().Replace(" ", "").Replace(".", "")}.jpg")"
@@ -14,10 +14,10 @@
             <p>@Model.MostPlayedCharacter</p>
         </div>
 
-        <!-- Center: Main Stats -->
+        <!-- center of screen is quick snap shot of statistics -->
         <div class="stats-content">
             <h1 class="subheader">Welcome back, @Model.Username!</h1>
-            <h2 class="subheader">Track your performance. Level up your game.</h2>
+            
             <h3 class="subheader">Total Matches Played:</h3>
             <p>@Model.MatchCount</p>
 
@@ -59,29 +59,24 @@
                     }
                 </ul>
             }
-
             <h6 class="subheader">Overall L-Cancel Percent</h6>
             <p>@Model.OverallLCancelPercent</p>
         </div>
 
-        <!-- Right: Top Win Rate -->
+        <!--right side image is top win rate character -->
         <div class="character-box">
             <h3 class="subheader">Top Win Rate Character</h3>
             <img src="@Url.Content($"~/images/{Model.TopWinRateCharacter.ToLower().Replace(" ", "").Replace(".", "")}.jpg")"
                  alt="@Model.TopWinRateCharacter" class="character-image" />
             <p>@Model.TopWinRateCharacter</p>
         </div>
-
     </div>
 
     <div class="text-center">
         <h1 class="subheader">New to Slippi? Helpful Links</h1>
-        <a href="https://slippi.gg/">Slippi Website</a>
-        <a href="https://www.ssbwiki.com/Super_Smash_Bros._Melee">What is Super Smash Bros Melee?</a>
+        <a href="https://slippi.gg/" target="_blank" rel="noopener noreferrer">Slippi Website</a>
+        <a href="https://www.ssbwiki.com/Super_Smash_Bros._Melee" target="_blank" rel="noopener noreferrer">What is Super Smash Bros Melee?</a>
     </div>
 
-    <div class="text-center">
-        <h1 class="subheader">Built for Melee players, by Melee players</h1>
-        <h2 class="subheader">Stop guessing, start improving</h2>
-    </div>
+
 </div>

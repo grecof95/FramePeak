@@ -73,6 +73,7 @@ body {
     display: inline-block;
 }
 
+/* Header Styling */
 .logo-header {
     display: flex;
     justify-content: center;
@@ -87,6 +88,7 @@ body {
     height: 196px;
     object-fit: contain;
 }
+
 
 .character-stat-container {
     display: flex;
@@ -111,6 +113,7 @@ body {
     flex-grow: 1;
 }
 
+/*character containers for the images on the home page*/
 .character-box {
     flex: 1;
     max-width: 250px;

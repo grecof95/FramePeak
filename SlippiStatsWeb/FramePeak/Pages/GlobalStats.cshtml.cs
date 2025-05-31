@@ -28,16 +28,16 @@ namespace FramePeak.Pages
             _repo = new GlobalData(settings.ConnString);
         }
 
-        public void OnGet()
+        public IActionResult OnGet()
         {
             UserId = HttpContext.Session.GetInt32("UserID") ?? -1;
             Username = HttpContext.Session.GetString("Username");
 
             if (UserId <= 0 || string.IsNullOrEmpty(Username))
             {
-                Response.Redirect("/Index");
-                return;
+                return RedirectToPage("/Index");  
             }
+
             GlobalMatchCount = _repo.GetGlobalMatchCount();
             GlobalAvgDamageDealt = _repo.GetGlobalDamageDealt();
             GlobalAvgDamageTaken = _repo.GetGlobalDamageTaken();
@@ -45,13 +45,15 @@ namespace FramePeak.Pages
             GlobalTop3CharactersUsage = _repo.GetGlobalTop3CharacterUsage();
             GlobalBot3CharactersWinRate = _repo.GetGlobalBot3CharacterWinRate();
             GlobalLCancelPercent = _repo.GetGlobalOverallLCancelPercent();
+
+            return Page();  
         }
 
         static Settings BindSettings()
         {
             var environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
             var configuration = new ConfigurationBuilder()
-                .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true) //ask about which of these are optional
+                .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true) 
                 .AddJsonFile($"appsettings.{environment}.json", optional: false, reloadOnChange: true)
                 .Build();
             var settings = new Settings();

@@ -9,95 +9,95 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FramePeak
 build_property.RootNamespace = FramePeak
-build_property.ProjectDir = C:\Users\frank.greco\OneDrive - Steel Dynamics Inc\School\SlippiStatsWeb\FramePeak\
+build_property.ProjectDir = C:\Users\frank.greco\OneDrive - Steel Dynamics Inc\School\IT299\SlippiStatsWeb\FramePeak\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\frank.greco\OneDrive - Steel Dynamics Inc\School\SlippiStatsWeb\FramePeak
+build_property.MSBuildProjectDirectory = C:\Users\frank.greco\OneDrive - Steel Dynamics Inc\School\IT299\SlippiStatsWeb\FramePeak
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/AboutUs.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/AboutUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRVcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/Characters.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/Characters.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hhcmFjdGVycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/Contact.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/Error.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/FAQ.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/FAQ.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRkFRLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/Feedback.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/Feedback.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVlZGJhY2suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/FeedbackConfirmation.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/FeedbackConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVlZGJhY2tDb25maXJtYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/FileUpload.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/FileUpload.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmlsZVVwbG9hZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/GlobalStats.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/GlobalStats.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2xvYmFsU3RhdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/Home.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/Home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/Index.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/Logout.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/Shared/_Header.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/Shared/_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/Shared/_LoginNav.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/Shared/_LoginNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpbk5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/Shared/_Nav.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/Shared/_Nav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9OYXYuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/Stats.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/Stats.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/_ViewImports.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/_ViewStart.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/Shared/_Layout.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xemvtvghuz
 
-[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/SlippiStatsWeb/FramePeak/Pages/Shared/_LoginLayout.cshtml]
+[C:/Users/frank.greco/OneDrive - Steel Dynamics Inc/School/IT299/SlippiStatsWeb/FramePeak/Pages/Shared/_LoginLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-mpxd0t4rqy

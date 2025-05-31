@@ -5,8 +5,6 @@
     ViewData["Title"] = "Login page";
 }
 
-<h2 class="subheader">Please log in</h2>
-
 @if (!string.IsNullOrEmpty(Model.ErrorMessage))
 {
     <div style="color: red; text-align: center;">
@@ -20,6 +18,15 @@
         @Model.SuccessMessage
     </div>
 }
+
+<div class="text-center">
+    <h1 class="subheader">Built for Melee players, by Melee players</h1>
+    <h2 class="subheader">Stop guessing, start improving</h2>
+</div>
+
+<br>
+
+<h2 class="subheader">Please log in</h2>
 
 <div style="max-width: 400px; margin: auto;">
     <form method="post">
@@ -38,4 +45,8 @@
             <button class="nav-button" type="submit" name="action" value="create">Create Account</button>
         </div>
     </form>
+</div>
+
+<div class="text-center">
+    <h2 class="subheader">Track your performance. Level up your game.</h2>
 </div>

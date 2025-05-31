@@ -55,7 +55,7 @@ namespace FramePeak.Pages.Home
         {
             var environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
             var configuration = new ConfigurationBuilder()
-                .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true) //ask about which of these are optional
+                .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true) 
                 .AddJsonFile($"appsettings.{environment}.json", optional: false, reloadOnChange: true)
                 .Build();
             var settings = new Settings();

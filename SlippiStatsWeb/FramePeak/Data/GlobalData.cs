@@ -103,7 +103,7 @@ namespace FramePeak.Data
             conn.Open();
 
             using var cmd = conn.CreateCommand();
-            cmd.CommandText = "SELECT MapPlayed, ROUND(CAST(SUM(CASE WHEN WinLoss = 'Win' THEN 1 ELSE 0 END) AS FLOAT) * 100.0 / COUNT(*), 2) || '%' AS WinRate FROM SlippiGameData JOIN SlippiSubmissions ON SlippiSubmissions.SLPFileID = SlippiGameData.SLPFileID GROUP BY MapPlayed ORDER BY CAST(SUM(CASE WHEN WinLoss = 'Win' THEN 1 ELSE 0 END) AS FLOAT) * 100.0 / COUNT(*) DESC LIMIT 3;";
+            cmd.CommandText = "SELECT CharacterPlayed, COUNT(*) AS PlayCount FROM SlippiGameData JOIN SlippiSubmissions ON SlippiSubmissions.SLPFileID = SlippiGameData.SLPFileID GROUP BY CharacterPlayed ORDER BY PlayCount DESC LIMIT 3;";
 
             using var reader = cmd.ExecuteReader();
             while (reader.Read())

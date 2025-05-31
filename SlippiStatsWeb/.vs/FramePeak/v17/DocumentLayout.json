@@ -1,26 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\",
+  "WorkspaceRootPath": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\IT299\\SlippiStatsWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBAFCE92-4C0A-42BB-9147-CB55942E78CD}|FramePeak\\FramePeak.csproj|c:\\users\\frank.greco\\onedrive - steel dynamics inc\\school\\slippistatsweb\\framepeak\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CBAFCE92-4C0A-42BB-9147-CB55942E78CD}|FramePeak\\FramePeak.csproj|solutionrelative:framepeak\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBAFCE92-4C0A-42BB-9147-CB55942E78CD}|FramePeak\\FramePeak.csproj|c:\\users\\frank.greco\\onedrive - steel dynamics inc\\school\\slippistatsweb\\framepeak\\pages\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CBAFCE92-4C0A-42BB-9147-CB55942E78CD}|FramePeak\\FramePeak.csproj|solutionrelative:framepeak\\pages\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBAFCE92-4C0A-42BB-9147-CB55942E78CD}|FramePeak\\FramePeak.csproj|c:\\users\\frank.greco\\onedrive - steel dynamics inc\\school\\slippistatsweb\\framepeak\\pages\\home.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBAFCE92-4C0A-42BB-9147-CB55942E78CD}|FramePeak\\FramePeak.csproj|solutionrelative:framepeak\\pages\\home.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBAFCE92-4C0A-42BB-9147-CB55942E78CD}|FramePeak\\FramePeak.csproj|c:\\users\\frank.greco\\onedrive - steel dynamics inc\\school\\slippistatsweb\\framepeak\\pages\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CBAFCE92-4C0A-42BB-9147-CB55942E78CD}|FramePeak\\FramePeak.csproj|solutionrelative:framepeak\\pages\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBAFCE92-4C0A-42BB-9147-CB55942E78CD}|FramePeak\\FramePeak.csproj|c:\\users\\frank.greco\\onedrive - steel dynamics inc\\school\\slippistatsweb\\framepeak\\data\\homedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBAFCE92-4C0A-42BB-9147-CB55942E78CD}|FramePeak\\FramePeak.csproj|solutionrelative:framepeak\\data\\homedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBAFCE92-4C0A-42BB-9147-CB55942E78CD}|FramePeak\\FramePeak.csproj|c:\\users\\frank.greco\\onedrive - steel dynamics inc\\school\\it299\\slippistatsweb\\framepeak\\pages\\characters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBAFCE92-4C0A-42BB-9147-CB55942E78CD}|FramePeak\\FramePeak.csproj|solutionrelative:framepeak\\pages\\characters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,67 +38,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AboutUs.cshtml",
-              "DocumentMoniker": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\Pages\\AboutUs.cshtml",
-              "RelativeDocumentMoniker": "FramePeak\\Pages\\AboutUs.cshtml",
-              "ToolTip": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\Pages\\AboutUs.cshtml",
-              "RelativeToolTip": "FramePeak\\Pages\\AboutUs.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T04:13:58.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "FramePeak\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "FramePeak\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAJAAAAAAAAAAAAAAAKwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-29T03:55:18.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeData.cs",
-              "DocumentMoniker": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\Data\\HomeData.cs",
-              "RelativeDocumentMoniker": "FramePeak\\Data\\HomeData.cs",
-              "ToolTip": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\Data\\HomeData.cs",
-              "RelativeToolTip": "FramePeak\\Data\\HomeData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T03:31:07.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Home.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\Pages\\Home.cshtml.cs",
-              "RelativeDocumentMoniker": "FramePeak\\Pages\\Home.cshtml.cs",
-              "ToolTip": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\Pages\\Home.cshtml.cs",
-              "RelativeToolTip": "FramePeak\\Pages\\Home.cshtml.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T03:30:47.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Home.cshtml",
-              "DocumentMoniker": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\Pages\\Home.cshtml",
-              "RelativeDocumentMoniker": "FramePeak\\Pages\\Home.cshtml",
-              "ToolTip": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\SlippiStatsWeb\\FramePeak\\Pages\\Home.cshtml",
-              "RelativeToolTip": "FramePeak\\Pages\\Home.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Title": "Characters.cshtml",
+              "DocumentMoniker": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\IT299\\SlippiStatsWeb\\FramePeak\\Pages\\Characters.cshtml",
+              "RelativeDocumentMoniker": "FramePeak\\Pages\\Characters.cshtml",
+              "ToolTip": "C:\\Users\\frank.greco\\OneDrive - Steel Dynamics Inc\\School\\IT299\\SlippiStatsWeb\\FramePeak\\Pages\\Characters.cshtml",
+              "RelativeToolTip": "FramePeak\\Pages\\Characters.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAHEAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T03:30:29.96Z",
+              "WhenOpened": "2025-05-30T23:05:55.219Z",
               "EditorCaption": ""
             }
           ]

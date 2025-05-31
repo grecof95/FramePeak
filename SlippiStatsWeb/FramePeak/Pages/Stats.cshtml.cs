@@ -39,20 +39,18 @@ namespace FramePeak.Pages
             _repo = new HomeData(settings.ConnString);
         }
 
-        public void OnGet()
+        public IActionResult OnGet()
         {
             UserId = HttpContext.Session.GetInt32("UserID") ?? -1;
             Username = HttpContext.Session.GetString("Username");
 
             if (UserId <= 0 || string.IsNullOrEmpty(Username))
             {
-                Response.Redirect("/Index");
-                return;
+                return RedirectToPage("/Index");  
             }
 
             CharacterList = _repo.GetCharactersPlayedByUser(UserId);
 
-            // Now Character (from the GET) will be used for your filtered queries
             if (!string.IsNullOrWhiteSpace(Character))
             {
                 CharWinCount = _repo.GetCharacterWins(UserId, Character);
@@ -64,13 +62,14 @@ namespace FramePeak.Pages
                 CharAvgLCancel = _repo.GetCharacterAvgLCancel(UserId, Character);
             }
 
+            return Page();
         }
 
-        static Settings BindSettings()
+    static Settings BindSettings()
         {
             var environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
             var configuration = new ConfigurationBuilder()
-                .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true) //ask about which of these are optional
+                .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true) 
                 .AddJsonFile($"appsettings.{environment}.json", optional: false, reloadOnChange: true)
                 .Build();
             var settings = new Settings();
